@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background: white;
+	align-content: center;
+}
+
+h1{
+		justify-content: center;
+		align-items: center;
+		height: 200px;
+		margin-top: 50px;
+}
